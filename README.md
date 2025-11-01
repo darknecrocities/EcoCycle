@@ -11,3 +11,11 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Smooth transitions between authenticated and unauthenticated states
 - User session management and persistent login state
 
+### Settings Management
+- Secure settings page or modal where authenticated users can view, enter, update, and remove their Gemini API key
+- Default Gemini API key (`AIzaSyABa_hinTbT-zYeJsjpzU5HNZb05YE8zSQ`) pre-filled in the settings interface
+- API key storage in frontend local storage with secure handling
+- Clear instructions and feedback informing users that the Gemini API key is securely stored locally and is required for AI-powered waste recognition
+- Validation and testing functionality for entered API keys
+- Option to update or remove saved API keys with immediate effect on waste recognition feature
+
