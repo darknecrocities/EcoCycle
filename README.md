@@ -72,3 +72,8 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Tips tailored to different waste categories and disposal methods, including electronics waste disposal and recycling
 - Information about proper electronics waste handling and e-waste recycling programs
 
+### Leaderboard
+- Community leaderboard showing top contributors based on EcoCoins earned
+- Rankings updated based on user participation and sustainable practices
+- Display of user rankings with usernames and total EcoCoins
+
