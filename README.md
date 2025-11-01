@@ -77,3 +77,8 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Rankings updated based on user participation and sustainable practices
 - Display of user rankings with usernames and total EcoCoins
 
+### Social Sharing
+- Users can generate shareable links for their achievements
+- Shareable leaderboard status and personal milestones
+- Links display achievement details and user progress
+
