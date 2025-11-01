@@ -43,3 +43,8 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Personal progress timeline showing key milestones and achievements over time
 - Motivational messages and progress encouragement based on user activity
 
+### EcoCoin Rewards System
+- Users earn EcoCoins for logging waste disposal events
+- Different point values based on waste type and disposal method (higher rewards for recycling and composting, including electronics recycling)
+- Display of current EcoCoin balance and earning history
+- Simple token-based reward mechanism
