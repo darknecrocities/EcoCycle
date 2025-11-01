@@ -65,3 +65,10 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Visual badge display showing earned achievements
 - Progress tracking toward next achievement milestones
 
+### Educational Content
+- Waste reduction tips and educational content section
+- Rotating eco-tips and environmental facts
+- Educational content about sustainable practices and environmental impact
+- Tips tailored to different waste categories and disposal methods, including electronics waste disposal and recycling
+- Information about proper electronics waste handling and e-waste recycling programs
+
