@@ -35,3 +35,11 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Always uses the latest API key saved in settings for all recognition requests
 - Clear feedback when API key is required for AI features
 
+### Enhanced Analytics Dashboard
+- Visual charts and graphs showing personal waste disposal trends over time
+- Breakdown of waste by category and disposal method, including electronics waste
+- Environmental impact metrics (CO2 saved, materials recycled)
+- Monthly and yearly summaries of waste management activities
+- Personal progress timeline showing key milestones and achievements over time
+- Motivational messages and progress encouragement based on user activity
+
