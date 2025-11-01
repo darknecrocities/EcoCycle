@@ -48,3 +48,14 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Different point values based on waste type and disposal method (higher rewards for recycling and composting, including electronics recycling)
 - Display of current EcoCoin balance and earning history
 - Simple token-based reward mechanism
+
+
+### Cryptocurrency Redemption System
+- Users can redeem EcoCoins for Ethereum and other cryptocurrencies
+- Redemption interface with amount selection and current exchange rate display
+- Real-time exchange rate information for supported cryptocurrencies
+- Redemption request submission and status tracking
+- Clear explanation of the simulated redemption process and manual steps required
+- Redemption history showing past transactions and their status
+- Minimum redemption thresholds and transaction fees display
+
