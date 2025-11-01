@@ -114,3 +114,23 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Generate shareable links for achievements and leaderboard status
 - Manage user accounts and reward balances
 
+## User Interface
+- Modern, visually engaging design with enhanced eco-friendly color scheme using greens, blues, and earth tones
+- Improved layout with better spacing, typography, and visual hierarchy
+- Integration of provided eco-themed assets (icons, logo, badges)
+- Intuitive navigation between waste logging, enhanced dashboard, achievements, educational content, rewards, redemption, settings, and leaderboard sections
+- Enhanced settings page or modal with pre-filled default Gemini API key and clear management interface
+- Clear instructions and user guidance explaining that the Gemini API key is securely stored locally and required for AI-powered waste recognition
+- Image upload interface integrated into waste logging page with camera and file upload options
+- AI recommendation display with accept/override functionality
+- Visual feedback for image analysis and AI suggestions using the current saved API key
+- API key status indicators and validation feedback in settings
+- Responsive design suitable for desktop and mobile devices
+- Clear visual feedback for successful actions, reward earning, achievement unlocks, and redemption requests
+- Enhanced use of color coding and visual elements to improve user engagement
+- Motivational design elements and progress indicators throughout the interface
+- Authentication state indicators and login/logout controls
+- Redemption interface with clear exchange rate display and transaction status
+
+## Content Language
+- All application content and interface text in English
