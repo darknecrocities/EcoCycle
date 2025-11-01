@@ -19,3 +19,9 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Validation and testing functionality for entered API keys
 - Option to update or remove saved API keys with immediate effect on waste recognition feature
 
+### Waste Logging
+- Users can log waste disposal events with details such as waste type, quantity, and disposal method
+- Support for different waste categories (recyclables, compostables, general waste, hazardous materials, electronics waste)
+- Simple form interface for quick logging of disposal activities
+- History view of all logged waste events
+
