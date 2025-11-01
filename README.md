@@ -95,3 +95,22 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Leaderboard rankings and user statistics
 - Social sharing data and generated link information
 
+## Backend Operations
+- Handle Internet Identity authentication and user session management
+- Store and manage default Gemini API key and user API key preferences
+- Process waste logging submissions and calculate EcoCoin rewards for all waste categories including electronics
+- Manage image uploads and process AI waste recognition requests using the current saved API key (default or user-updated)
+- Make secure API calls to Gemini 2.5 Flash for waste image analysis using the appropriate API key
+- Process AI recommendations and provide waste type suggestions
+- Handle API key validation and error management for Gemini integration
+- Update API key usage when users modify their settings
+- Manage cryptocurrency redemption requests and status updates
+- Fetch and store current cryptocurrency exchange rates
+- Process redemption calculations and validate user balances
+- Track achievement progress and unlock badges based on user milestones (including electronics waste targets)
+- Generate analytics data for dashboard visualizations and progress timelines including electronics waste data
+- Manage educational content rotation and delivery, including electronics waste content
+- Update leaderboard rankings based on user activities
+- Generate shareable links for achievements and leaderboard status
+- Manage user accounts and reward balances
+
