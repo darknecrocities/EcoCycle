@@ -25,3 +25,13 @@ EcoCycle is a community-focused waste management platform that encourages sustai
 - Simple form interface for quick logging of disposal activities
 - History view of all logged waste events
 
+### AI-Powered Waste Recognition (Gemini Feature)
+- Image upload functionality allowing users to take or upload photos of waste items
+- Real Gemini 2.5 Flash API integration using the current saved API key (default or user-updated) for waste image analysis
+- Smart waste type recommendations based on uploaded images using actual AI recognition
+- Option to accept AI suggestions or manually override the recommended waste category
+- Auto-fill capability for waste logging form based on AI recommendations
+- Visual display of uploaded images and AI analysis results
+- Always uses the latest API key saved in settings for all recognition requests
+- Clear feedback when API key is required for AI features
+
